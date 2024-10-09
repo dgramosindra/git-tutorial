@@ -1,3 +1,7 @@
+Main languages:
 Añado un nuevo cambio -> Leo vuelve al barsa
 C++
 C
+Foreign langauges:
+English
+German
