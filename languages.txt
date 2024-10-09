@@ -1,3 +1,8 @@
 Añado un nuevo cambio -> Leo vuelve al barsa
 C++
 C
+----------------
+language strength:
+	strong
+	medium
+	weak
